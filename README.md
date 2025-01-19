@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tyler Amey</h1>
 <h3 align="center">UI/UX Designer and Developer from Buffalo, NY</h3>
 
+- 📝 I’m a 4th year New Media Interactive Development (NMID) major at RIT with an immersion in Free and Open Source Software (FOSS)
+
 - 🔭 I’m currently working on [Gravity Golf](https://github.com/JPSwim77/GravityGolfRepo.git)
 
 - 👨‍💻 All of my projects are available at [https://people.rit.edu/tja5919/portfolio/](https://people.rit.edu/tja5919/portfolio/)
