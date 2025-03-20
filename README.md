@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Amey</h1>
-<h3 align="center">UI/UX Designer and Developer from Buffalo, NY</h3>
+<h3 align="center">Full Stack Developer from Buffalo, NY</h3>
 
 - 📝 I’m a 4th year New Media Interactive Development (NMID) major at RIT with an immersion in Free and Open Source Software (FOSS)
 
