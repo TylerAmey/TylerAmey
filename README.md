@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Gravity Golf](https://github.com/JPSwim77/GravityGolfRepo.git)
 
-- 👨‍💻 All of my projects are available at [https://people.rit.edu/tja5919/portfolio/](https://people.rit.edu/tja5919/portfolio/)
+- 👨‍💻 All of my projects are available at [https://people.rit.edu/tja5919/portfolio/](https://tyleramey.netlify.app/)
 
 - 📫 How to reach me **tja5919@rit.edu**
 
-- 📄 Know about my experiences [https://people.rit.edu/tja5919/portfolio/](https://people.rit.edu/tja5919/portfolio/)
+- 📄 Know about my experiences [https://people.rit.edu/tja5919/portfolio/](https://tyleramey.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
